@@ -1,0 +1,7 @@
+C:\Users\Varmas\source\repos\hnampally\TestApplication\LogicalSkills\bin\Debug\LogicalSkills.exe.config
+C:\Users\Varmas\source\repos\hnampally\TestApplication\LogicalSkills\bin\Debug\LogicalSkills.exe
+C:\Users\Varmas\source\repos\hnampally\TestApplication\LogicalSkills\bin\Debug\LogicalSkills.pdb
+C:\Users\Varmas\source\repos\hnampally\TestApplication\LogicalSkills\obj\Debug\LogicalSkills.csprojAssemblyReference.cache
+C:\Users\Varmas\source\repos\hnampally\TestApplication\LogicalSkills\obj\Debug\LogicalSkills.csproj.CoreCompileInputs.cache
+C:\Users\Varmas\source\repos\hnampally\TestApplication\LogicalSkills\obj\Debug\LogicalSkills.exe
+C:\Users\Varmas\source\repos\hnampally\TestApplication\LogicalSkills\obj\Debug\LogicalSkills.pdb
